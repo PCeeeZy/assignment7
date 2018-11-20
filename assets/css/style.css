@@ -1,0 +1,26 @@
+
+.card-header, .jumbotron, .btn {
+    background-color: #2873A0 !important;
+    color: lightgrey;
+}
+
+tr {
+    text-align: center;
+    color: #004164;
+}
+
+tr:nth-child(even) {
+    background-color: #E8F2F9;
+}
+
+tr:hover {
+    background-color: #D7E9F4;
+
+}
+
+
+
+/* primary color--- #2873A0 */
+/* dark bluegrey is--- #004164 */
+/* extremely light blue--- #E8F2F9 */
+/* hover color is---  #D7E9F4*/
